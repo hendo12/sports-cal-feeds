@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//cal.henrydoce.com//sports-cal//EN
+CALSCALE:GREGORIAN
+X-WR-CALDESC:🐬 Miami Dolphins schedule, auto-updated from official sour
+ ces. https://cal.henrydoce.com
+X-WR-CALNAME:🐬 Miami Dolphins
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ Raiders
+DTSTART:20260913T202500Z
+DTEND:20260913T234000Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-a9a881ca-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 4:25 PM ET · 1:25 PM PT\nTV: FOX\nhttps://www.nfl.co
+ m/games/dolphins-at-raiders-2026-reg-1
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Allegiant Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-raiders-2026-reg-1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ 49ers
+DTSTART:20260920T202500Z
+DTEND:20260920T234000Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-a9e0ef5d-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 4:25 PM ET · 1:25 PM PT\nTV: FOX\nhttps://www.nfl.co
+ m/games/dolphins-at-49ers-2026-reg-2
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Levi's® Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-49ers-2026-reg-2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Chiefs @ Dolphins
+DTSTART:20260927T170000Z
+DTEND:20260927T201500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-aa04b0d8-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: CBS\nhttps://www.nfl.c
+ om/games/chiefs-at-dolphins-2026-reg-3
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chiefs-at-dolphins-2026-reg-3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ Vikings
+DTSTART:20261004T200500Z
+DTEND:20261004T232000Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-aa4b6a4b-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 4:05 PM ET · 1:05 PM PT\nTV: FOX\nhttps://www.nfl.co
+ m/games/dolphins-at-vikings-2026-reg-4
+LAST-MODIFIED:20260911T030056Z
+LOCATION:U.S. Bank Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-vikings-2026-reg-4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Bengals @ Dolphins
+DTSTART:20261011T170000Z
+DTEND:20261011T201500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-aa6b5f66-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: FOX\nhttps://www.nfl.c
+ om/games/bengals-at-dolphins-2026-reg-5
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bengals-at-dolphins-2026-reg-5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ Jets
+DTSTART:20261025T170000Z
+DTEND:20261025T201500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-aaf6ec9e-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: CBS\nhttps://www.nfl.c
+ om/games/dolphins-at-jets-2026-reg-7
+LAST-MODIFIED:20260911T030056Z
+LOCATION:MetLife Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-jets-2026-reg-7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Patriots @ Dolphins
+DTSTART:20261101T212500Z
+DTEND:20261102T004000Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ab1670ad-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 4:25 PM ET · 1:25 PM PT\nTV: CBS\nhttps://www.nfl.co
+ m/games/patriots-at-dolphins-2026-reg-8
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/patriots-at-dolphins-2026-reg-8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Lions @ Dolphins
+DTSTART:20261108T180000Z
+DTEND:20261108T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ab381a59-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: FOX\nhttps://www.nfl.c
+ om/games/lions-at-dolphins-2026-reg-9
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/lions-at-dolphins-2026-reg-9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ Colts
+DTSTART:20261115T180000Z
+DTEND:20261115T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ab789365-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: CBS\nhttps://www.nfl.c
+ om/games/dolphins-at-colts-2026-reg-10
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Lucas Oil Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-colts-2026-reg-10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ Bills
+DTSTART:20261122T180000Z
+DTEND:20261122T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ab998769-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: FOX\nhttps://www.nfl.c
+ om/games/dolphins-at-bills-2026-reg-11
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Highmark Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-bills-2026-reg-11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Jets @ Dolphins
+DTSTART:20261129T180000Z
+DTEND:20261129T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-abdfd040-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: CBS\nhttps://www.nfl.c
+ om/games/jets-at-dolphins-2026-reg-12
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/jets-at-dolphins-2026-reg-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ Broncos
+DTSTART:20261206T210500Z
+DTEND:20261207T002000Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ac016f2b-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 4:05 PM ET · 1:05 PM PT\nTV: FOX\nhttps://www.nfl.co
+ m/games/dolphins-at-broncos-2026-reg-13
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Empower Field at Mile High
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-broncos-2026-reg-13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Bears @ Dolphins
+DTSTART:20261213T180000Z
+DTEND:20261213T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ac2091af-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: CBS\nhttps://www.nfl.c
+ om/games/bears-at-dolphins-2026-reg-14
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bears-at-dolphins-2026-reg-14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Dolphins @ Packers
+DTSTART:20261220T180000Z
+DTEND:20261220T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ac604a6e-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: FOX\nhttps://www.nfl.c
+ om/games/dolphins-at-packers-2026-reg-15
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/dolphins-at-packers-2026-reg-15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Chargers @ Dolphins
+DTSTART:20261227T180000Z
+DTEND:20261227T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-ac9e3acb-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: FOX\nhttps://www.nfl.c
+ om/games/chargers-at-dolphins-2026-reg-16
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/chargers-at-dolphins-2026-reg-16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐬 Bills @ Dolphins
+DTSTART:20270103T180000Z
+DTEND:20270103T211500Z
+DTSTAMP:20260911T030056Z
+UID:dolphins-nflcom-acc1f6d4-4feb-11f1-abca-2c54536568a9@cal.henrydoce.com
+SEQUENCE:0
+DESCRIPTION:Kickoff: 1:00 PM ET · 10:00 AM PT\nTV: CBS\nhttps://www.nfl.c
+ om/games/bills-at-dolphins-2026-reg-17
+LAST-MODIFIED:20260911T030056Z
+LOCATION:Hard Rock Stadium
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.nfl.com/games/bills-at-dolphins-2026-reg-17
+END:VEVENT
+END:VCALENDAR
