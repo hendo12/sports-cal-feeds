@@ -71,12 +71,12 @@ BEGIN:VEVENT
 SUMMARY:🌀 Miami @ Clemson (time TBA)
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
-DTSTAMP:20260911T030056Z
+DTSTAMP:20260927T051636Z
 UID:hurricanes-football-wmt-167@cal.henrydoce.com
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20260911T030056Z
+ \nTV: ABC\nhttps://miamihurricanes.com/sports/football/schedule
+LAST-MODIFIED:20260927T051636Z
 LOCATION:Memorial Stadium (Clemson\, SC)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
