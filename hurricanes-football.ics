@@ -83,15 +83,15 @@ TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌀 Florida State @ Miami (time TBA)
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DTSTAMP:20260911T030056Z
+SUMMARY:🌀 Florida State @ Miami
+DTSTART:20261017T230000Z
+DTEND:20261018T023000Z
+DTSTAMP:20261006T000136Z
 UID:hurricanes-football-wmt-168@cal.henrydoce.com
-SEQUENCE:0
-DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20260911T030056Z
+SEQUENCE:1
+DESCRIPTION:Kickoff: 7:00 PM ET · 4:00 PM PT\nTV: ESPN\nhttps://miamihurr
+ icanes.com/sports/football/schedule
+LAST-MODIFIED:20261006T000136Z
 LOCATION:Hard Rock Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
