@@ -86,27 +86,27 @@ BEGIN:VEVENT
 SUMMARY:🌀 Florida State @ Miami
 DTSTART:20261017T230000Z
 DTEND:20261018T023000Z
-DTSTAMP:20261006T000136Z
+DTSTAMP:20261013T003731Z
 UID:hurricanes-football-wmt-168@cal.henrydoce.com
-SEQUENCE:1
-DESCRIPTION:Kickoff: 7:00 PM ET · 4:00 PM PT\nTV: ESPN\nhttps://miamihurr
- icanes.com/sports/football/schedule
-LAST-MODIFIED:20261006T000136Z
+SEQUENCE:2
+DESCRIPTION:Kickoff: 7:00 PM ET · 4:00 PM PT\nTV: ESPN\, Disney+\nhttps:/
+ /miamihurricanes.com/sports/football/schedule
+LAST-MODIFIED:20261013T003731Z
 LOCATION:Hard Rock Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌀 Pittsburgh @ Miami (time TBA)
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20260911T030056Z
+SUMMARY:🌀 Pittsburgh @ Miami
+DTSTART:20261024T160000Z
+DTEND:20261024T193000Z
+DTSTAMP:20261013T003731Z
 UID:hurricanes-football-wmt-165@cal.henrydoce.com
-SEQUENCE:0
-DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20260911T030056Z
+SEQUENCE:1
+DESCRIPTION:Kickoff: 12:00 PM ET · 9:00 AM PT\nhttps://miamihurricanes.co
+ m/sports/football/schedule
+LAST-MODIFIED:20261013T003731Z
 LOCATION:Hard Rock Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
