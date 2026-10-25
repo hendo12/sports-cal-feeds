@@ -116,12 +116,12 @@ BEGIN:VEVENT
 SUMMARY:🌀 Miami @ North Carolina (time TBA)
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20260911T030056Z
+DTSTAMP:20261025T112324Z
 UID:hurricanes-football-wmt-160@cal.henrydoce.com
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20260911T030056Z
+ \nTV: ABC\nhttps://miamihurricanes.com/sports/football/schedule
+LAST-MODIFIED:20261025T112324Z
 LOCATION:Kenan Stadium\, Chapel Hill
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
