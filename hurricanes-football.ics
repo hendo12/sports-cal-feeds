@@ -113,15 +113,15 @@ TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌀 Miami @ North Carolina (time TBA)
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261025T112324Z
+SUMMARY:🌀 Miami @ North Carolina
+DTSTART:20261031T233000Z
+DTEND:20261101T030000Z
+DTSTAMP:20261025T161412Z
 UID:hurricanes-football-wmt-160@cal.henrydoce.com
-SEQUENCE:1
-DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nTV: ABC\nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20261025T112324Z
+SEQUENCE:2
+DESCRIPTION:Kickoff: 7:30 PM ET · 4:30 PM PT\nTV: ABC\nhttps://miamihurri
+ canes.com/sports/football/schedule
+LAST-MODIFIED:20261025T161412Z
 LOCATION:Kenan Stadium\, Chapel Hill
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
