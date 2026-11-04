@@ -143,15 +143,15 @@ TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌀 Duke @ Miami (time TBA)
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261103T005610Z
+SUMMARY:🌀 Duke @ Miami
+DTSTART:20261114T170000Z
+DTEND:20261114T203000Z
+DTSTAMP:20261104T233850Z
 UID:hurricanes-football-wmt-161@cal.henrydoce.com
-SEQUENCE:1
-DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nTV: ABC\nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20261103T005610Z
+SEQUENCE:2
+DESCRIPTION:Kickoff: 12:00 PM ET · 9:00 AM PT\nTV: ABC\nhttps://miamihurr
+ icanes.com/sports/football/schedule
+LAST-MODIFIED:20261104T233850Z
 LOCATION:Hard Rock Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
