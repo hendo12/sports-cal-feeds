@@ -158,30 +158,30 @@ TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌀 Virginia Tech @ Miami (time TBA)
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261116T062339Z
+SUMMARY:🌀 Virginia Tech @ Miami
+DTSTART:20261122T000000Z
+DTEND:20261122T033000Z
+DTSTAMP:20261116T215908Z
 UID:hurricanes-football-wmt-158@cal.henrydoce.com
-SEQUENCE:1
-DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nTV: ESPN\nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20261116T062339Z
+SEQUENCE:2
+DESCRIPTION:Kickoff: 7:00 PM ET · 4:00 PM PT\nTV: ESPN\nhttps://miamihurr
+ icanes.com/sports/football/schedule
+LAST-MODIFIED:20261116T215908Z
 LOCATION:Hard Rock Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🌀 Boston College @ Miami (time TBA)
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20260911T030056Z
+SUMMARY:🌀 Boston College @ Miami
+DTSTART:20261128T170000Z
+DTEND:20261128T203000Z
+DTSTAMP:20261116T215908Z
 UID:hurricanes-football-wmt-157@cal.henrydoce.com
-SEQUENCE:0
-DESCRIPTION:Kickoff time not announced yet. This event updates when it is.
- \nhttps://miamihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20260911T030056Z
+SEQUENCE:1
+DESCRIPTION:Kickoff: 12:00 PM ET · 9:00 AM PT\nTV: ESPN\nhttps://miamihur
+ ricanes.com/sports/football/schedule
+LAST-MODIFIED:20261116T215908Z
 LOCATION:Hard Rock Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
