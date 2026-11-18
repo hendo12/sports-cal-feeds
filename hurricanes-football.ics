@@ -11,13 +11,13 @@ BEGIN:VEVENT
 SUMMARY:🌀 Miami @ Stanford
 DTSTART:20260905T010000Z
 DTEND:20260905T043000Z
-DTSTAMP:20261117T205303Z
+DTSTAMP:20261118T072409Z
 UID:hurricanes-football-wmt-170@cal.henrydoce.com
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Kickoff: 9:00 PM ET · 6:00 PM PT\nTV: ESPN\nhttps://miamihurr
  icanes.com/sports/football/schedule
-LAST-MODIFIED:20261117T205303Z
-LOCATION:Stanford Stadium\, Stanford\, Calif.
+LAST-MODIFIED:20261118T072409Z
+LOCATION:Stanford Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
@@ -41,13 +41,13 @@ BEGIN:VEVENT
 SUMMARY:🌀 Miami @ Wake Forest
 DTSTART:20260918T233000Z
 DTEND:20260919T030000Z
-DTSTAMP:20261117T205303Z
+DTSTAMP:20261118T072409Z
 UID:hurricanes-football-wmt-166@cal.henrydoce.com
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Kickoff: 7:30 PM ET · 4:30 PM PT\nTV: ESPN\nhttps://miamihurr
  icanes.com/sports/football/schedule
-LAST-MODIFIED:20261117T205303Z
-LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, N.C.
+LAST-MODIFIED:20261118T072409Z
+LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
@@ -71,13 +71,13 @@ BEGIN:VEVENT
 SUMMARY:🌀 Miami @ Clemson
 DTSTART:20261003T233000Z
 DTEND:20261004T030000Z
-DTSTAMP:20261117T205303Z
+DTSTAMP:20261118T072409Z
 UID:hurricanes-football-wmt-167@cal.henrydoce.com
-SEQUENCE:3
+SEQUENCE:4
 DESCRIPTION:Kickoff: 7:30 PM ET · 4:30 PM PT\nTV: ABC\nhttps://miamihurri
  canes.com/sports/football/schedule
-LAST-MODIFIED:20261117T205303Z
-LOCATION:Memorial Stadium (Clemson\, SC)\, Clemson\, S.C.
+LAST-MODIFIED:20261118T072409Z
+LOCATION:Memorial Stadium (Clemson\, SC)
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
@@ -116,13 +116,13 @@ BEGIN:VEVENT
 SUMMARY:🌀 Miami @ North Carolina
 DTSTART:20261031T233000Z
 DTEND:20261101T030000Z
-DTSTAMP:20261117T205303Z
+DTSTAMP:20261118T072409Z
 UID:hurricanes-football-wmt-160@cal.henrydoce.com
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:Kickoff: 7:30 PM ET · 4:30 PM PT\nTV: ABC\, ERADM\nhttps://mi
  amihurricanes.com/sports/football/schedule
-LAST-MODIFIED:20261117T205303Z
-LOCATION:Kenan Stadium\, Chapel Hill\, N.C.
+LAST-MODIFIED:20261118T072409Z
+LOCATION:Kenan Stadium\, Chapel Hill
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
@@ -131,13 +131,13 @@ BEGIN:VEVENT
 SUMMARY:🌀 Miami @ Notre Dame
 DTSTART:20261108T003000Z
 DTEND:20261108T040000Z
-DTSTAMP:20261117T205303Z
+DTSTAMP:20261118T072409Z
 UID:hurricanes-football-wmt-159@cal.henrydoce.com
-SEQUENCE:3
+SEQUENCE:4
 DESCRIPTION:Kickoff: 7:30 PM ET · 4:30 PM PT\nTV: NBC\nhttps://miamihurri
  canes.com/sports/football/schedule
-LAST-MODIFIED:20261117T205303Z
-LOCATION:Notre Dame Stadium\, South Bend\, Ind.
+LAST-MODIFIED:20261118T072409Z
+LOCATION:Notre Dame Stadium
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 URL:https://miamihurricanes.com/sports/football/schedule
